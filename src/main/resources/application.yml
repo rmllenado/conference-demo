@@ -23,4 +23,4 @@ server:
   port: 5000
 
 app:
-  version:  1.0.0
+  version:  ${APP_VERSION}
