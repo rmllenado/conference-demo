@@ -24,3 +24,6 @@ server:
 
 app:
   version:  ${APP_VERSION}
+
+logging.level.org:  INFO
+
